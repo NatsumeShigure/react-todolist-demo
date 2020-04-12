@@ -1,0 +1,4 @@
+#root::before {
+  content: "";
+  display: table;
+}
